@@ -1,5 +1,5 @@
 # CCNUthesis
-
+1
 ## 欢迎使用CCNUthesis（华中师范大学论文模版）
 
 本模版支持华中师范大学数学与统计学学院本硕博毕业论文撰写，基于 [fduthesis](https://github.com/stone-zeng/fduthesis) 编写而成，借助现代 LaTeX 技术，希望达到用户接口简明、内容格式规范和模板样式可定制的统一。
